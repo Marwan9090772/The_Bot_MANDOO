@@ -1,0 +1,30 @@
+{
+"info": {
+"accounts": {
+"youTube": "https://www.youtube.com/@MandoElhakem-g8u",
+},
+"channels": {
+"channel1": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"channel2": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"channel3": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+},
+"groups": {
+"group1": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group2": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group3": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group4": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+"group5": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U",
+},
+"collaboration": {
+"group1": "https://api.whatsapp.com/send?phone=+201144987551",
+"group2": "https://api.whatsapp.com/send?phone=+201144987551",
+"group3": "https://api.whatsapp.com/send?phone=+201144987551",
+"group4": "https://api.whatsapp.com/send?phone=+201144987551"
+},
+"others": {
+"assistance_num": "https://api.whatsapp.com/send?phone=+201144987551",
+"yt_vid": "https://www.youtube.com/@MandoElhakem-g8u",
+"group_support": "https://whatsapp.com/channel/0029VarJdJO7dmeZS5ZKft1U"
+}
+}
+}
